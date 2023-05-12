@@ -44,3 +44,5 @@ def main():
     self_drive.display_console()
 
 #run Main
+if __name__ == "__main__":
+    main()
